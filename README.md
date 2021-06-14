@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @punitporwal07
+- 👋 Hi, I’m Punit Porwal
 - 👀 I’m interested in CNCF methodology
 - 🌱 I’m currently learning CNCF and other emerging tech stack
 - 💞️ I’m looking to collaborate on k8s stuff
