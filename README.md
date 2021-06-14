@@ -2,7 +2,7 @@
 - 👀 I’m interested in CNCF methodology
 - 🌱 I’m currently learning CNCF and other emerging tech stack
 - 💞️ I’m looking to collaborate on k8s stuff
-- 📫 How to reach me you know very well. :)
+- 📫 How to reach me you know very well :)
 
 <!---
 punitporwal07/punitporwal07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
