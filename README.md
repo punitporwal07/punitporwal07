@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Punit Porwal
 - 👀 I’m interested in CNCF
 - 🌱 I’m currently learning CNCF and other emerging tech stack
-- 💞️ I’m looking to collaborate on k8s stuff
+- 💞️ I’m looking to collaborate on aws & k8s stuff
 - 📫 How to reach me you know very well :)
 
 <!---
